@@ -23,7 +23,7 @@ It demonstrates backend development skills, authentication systems, and complete
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, Bootstrap  
+- **Frontend:** HTML, CSS, Bootstrap,js 
 - **Backend:** PHP  
 - **Database:** MySQL  
 - **Server Environment:** XAMPP  
