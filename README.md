@@ -1,4 +1,4 @@
-# Library Management System (Internship Project)
+# Library Management System
 
 ## Project Overview  
 This is a fully functional **Library Management System** developed using **PHP and MySQL**.  
